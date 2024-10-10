@@ -18,5 +18,7 @@
 	<classpathentry kind="src" path="Listas"/>
 	<classpathentry kind="src" path="Polimorfismo"/>
 	<classpathentry kind="src" path="CRUD"/>
+	<classpathentry kind="src" path="ExercicioApostila"/>
+	<classpathentry kind="src" path="Gerente"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
