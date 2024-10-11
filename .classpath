@@ -20,5 +20,7 @@
 	<classpathentry kind="src" path="CRUD"/>
 	<classpathentry kind="src" path="ExercicioApostila"/>
 	<classpathentry kind="src" path="Gerente"/>
+	<classpathentry kind="src" path="Interfaces"/>
+	<classpathentry kind="src" path="ExercicioInterface"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
