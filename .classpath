@@ -22,5 +22,11 @@
 	<classpathentry kind="src" path="Gerente"/>
 	<classpathentry kind="src" path="Interfaces"/>
 	<classpathentry kind="src" path="ExercicioInterface"/>
+	<classpathentry kind="src" path="InterfaceGrafica">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="ExercicioIMCinterface"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
